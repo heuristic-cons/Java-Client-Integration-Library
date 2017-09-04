@@ -1,0 +1,108 @@
+[
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000051",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000052",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000053",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000054",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000055",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000056",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000057",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000058",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000059",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000060",
+    "BatchId": "00099",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "20000605901171",
+    "SerialNumber": "0000000061",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000062",
+    "BatchId": "00001",
+    "ExpiryDate": "170100"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000063",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000064",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  },
+  {
+    "ProductCodeScheme": "Gs1",
+    "ProductCode": "05000456013482",
+    "SerialNumber": "0000000065",
+    "BatchId": "00001",
+    "ExpiryDate": "201200"
+  }
+]
+

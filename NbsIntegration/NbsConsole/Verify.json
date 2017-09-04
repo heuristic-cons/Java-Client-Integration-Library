@@ -1,0 +1,94 @@
+[
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000001",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000002",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000003",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000004",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000005",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000006",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000007",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000008",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000009",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000010",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000011",
+    "batchId": "00099",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "20000605901171",
+    "serialNumber": "0000000012",
+    "batchId": "00001",
+    "expiryDate": "201200"
+  },
+  {
+    "productCodeScheme": "Gs1",
+    "productCode": "05000456013482",
+    "serialNumber": "0000000013",
+    "batchId": "00001",
+    "expiryDate": "170100"
+  }
+]
+
